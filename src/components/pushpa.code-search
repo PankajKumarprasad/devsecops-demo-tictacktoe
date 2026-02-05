@@ -1,0 +1,9 @@
+# Query: pushpa
+# ContextLines: 1
+
+1 result - 1 file
+
+src/components/ScoreBoard.tsx:
+  23              <User className="h-4 w-4 text-indigo-600" />
+  24:             <span className="font-medium">Pushpa Bhau</span>
+  25            </div>
